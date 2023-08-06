@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Bucuresti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-07-31T13:42:44.991Z",
+      "notes": "",
+      "position": {
+        "lat": "44.43377984606825",
+        "lng": "26.059570312500004"
+      },
+      "id": 1
+    }
+  ]
+}
